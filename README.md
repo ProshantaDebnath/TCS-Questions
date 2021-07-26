@@ -18,5 +18,4 @@ TCS Ninja basic programming question asked in campus placement in Python &amp; C
 9. <a href="https://github.com/harshitg123/TCS-Questions/tree/main/09_Factorial"> Factorial. </a>
 10. <a href="https://github.com/harshitg123/TCS-Questions/tree/main/10_Armstrong"> Armstrong number. </a>
 11. <a href="https://github.com/harshitg123/TCS-Questions/tree/main/10_Armstrong"> Area of circle. </a>
-
-
+12. <a href="https://github.com/harshitg123/TCS-Questions/tree/main/12_Swap%20two%20numbers"> Swapping </a>
