@@ -19,4 +19,4 @@ TCS Ninja basic programming question asked in campus placement in Python &amp; C
 10. <a href="https://github.com/harshitg123/TCS-Questions/tree/main/10_Armstrong"> Armstrong number. </a>
 11. <a href="https://github.com/harshitg123/TCS-Questions/tree/main/10_Armstrong"> Area of circle. </a>
 12. <a href="https://github.com/harshitg123/TCS-Questions/tree/main/12_Swap%20two%20numbers"> Swapping </a>
-13. <a href="https://github.com/harshitg123/TCS-Questions/tree/main/13_Binary%20to%Octal"> Binary to Octal </a>
+13. <a href="https://github.com/harshitg123/TCS-Questions/tree/main/13_Concatenate%202%20strings"> Concatenate two strings. </a>
