@@ -5,7 +5,7 @@ TCS Ninja basic programming question asked in campus placement in Python &amp; C
 <img height="400" width="850" src="Image/tcs.png" alt="TCS" />
 </p>
 
-# General programs in Python & C
+## General programs in Python & C
 
 1. <a href="https://github.com/harshitg123/TCS-Questions/tree/main/01_Reverse%20a%20string"> Reverse a string. </a>
 2. <a href="https://github.com/harshitg123/TCS-Questions/tree/main/02_Reverse%20a%20number"> Reverse a number. </a>
@@ -20,3 +20,5 @@ TCS Ninja basic programming question asked in campus placement in Python &amp; C
 11. <a href="https://github.com/harshitg123/TCS-Questions/tree/main/10_Armstrong"> Area of circle. </a>
 12. <a href="https://github.com/harshitg123/TCS-Questions/tree/main/12_Swap%20two%20numbers"> Swapping </a>
 13. <a href="https://github.com/harshitg123/TCS-Questions/tree/main/13_Concatenate%202%20strings"> Concatenate two strings. </a>
+14. <a href="https://github.com/harshitg123/TCS-Questions/tree/main/14_LCM%20of%20two%20numbers"> LCM of two numbers. </a>
+15. <a href="https://github.com/harshitg123/TCS-Questions/tree/main/15_Average%20of%20Two%20Numbers"> Averages of two numbers. </a>
